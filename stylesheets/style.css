@@ -1,0 +1,60 @@
+.image3 {
+    width: 80%;
+    height: 300px;
+    border: 2px black solid;
+}
+.image2 {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    max-height: 100%;
+    overflow: auto;
+}
+
+.image {
+    position: relative;
+}
+
+.container {
+    position: absolute;
+}
+
+.title{
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    padding: 1%;
+    font-family: 'Lato', sans-serif;
+    color: black;
+}
+
+.section{
+    width: 90%;
+    margin: auto;
+    padding: 2%;
+}
+
+.text{
+    width: 95%;
+    font-size: 17.5px;
+    text-align: justify;
+    padding: 10px 0px 10px 0px;
+    font-family: 'Dosis', sans-serif;
+    color: black;
+}
+.heading{
+    text-align: justify;
+    width: 98%;
+    font-size: 19px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: brown;
+}
